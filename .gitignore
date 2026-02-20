@@ -1,6 +1,4 @@
 .DS_Store
-*.pkl
 *.csv
-*.pdf
 __pycache__/
 
